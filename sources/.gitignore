@@ -1,0 +1,16 @@
+.vs/
+App.dir/
+CMakeFiles/
+Debug/
+Release/
+Win32/
+
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+*.sln
+
+*.cmake
+
+CMakeCache.txt
